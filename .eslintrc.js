@@ -15,5 +15,8 @@ module.exports = {
     'semi': 'off',
     'indent': ['error', 2],
     'require-jsdoc': 'off',
+    'operator-linebreak': 'off',
+    'arrow-parens': 'off',
+    'object-curly-spacing': 'off',
   },
 }
